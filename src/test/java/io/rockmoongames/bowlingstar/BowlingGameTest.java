@@ -23,6 +23,21 @@ public class BowlingGameTest {
     public void One() {
 
     }
+
+    @Test
+    public void B_One() {
+   /// ups I needed to add the something
+    }
+
+    @Test
+    public void B_One_66666() {
+   /// ups I needed to add the something
+    }
+
+    @Test
+    public void B_One_77777() {
+   /// ups I needed to add the something
+    }
 }
 
 public class Two {}
