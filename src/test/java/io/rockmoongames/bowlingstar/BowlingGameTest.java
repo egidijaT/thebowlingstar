@@ -19,3 +19,5 @@ public class BowlingGameTest {
 
     }
 }
+
+public class Two {}
